@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eslam138
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning and deep learning
+- 👀 I’m interested in full stack node js
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : cna reach me from gmail:aslamnasr798@gmail.com
 
